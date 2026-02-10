@@ -1,5 +1,7 @@
 # AnomalyGuard 🛡️
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://anomalyguard-2z.streamlit.app/)
+
 AI-powered data quality monitoring system for accounting and financial data.
 
 ## 🚀 The Problem
