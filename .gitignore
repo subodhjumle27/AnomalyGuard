@@ -7,4 +7,5 @@ venv/
 ENV/
 anomalyguard.db
 *.csv
+!samples/*.csv
 .DS_Store

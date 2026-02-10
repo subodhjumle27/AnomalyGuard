@@ -1,0 +1,212 @@
+transaction_id,date,amount,vendor,type
+TXN_6B615986,2025-11-12,2421.77,Consultant John Doe,services
+TXN_9C13CAF2,2026-02-06,156.82,Slack,software
+TXN_DD07F7EF,2025-11-13,277.1,Amazon,office_supplies
+TXN_33A591E8,2025-12-03,737.04,Hilton Hotels,travel
+TXN_C801EE7F,2026-02-09,1528.22,AWS,software
+TXN_6839AA9E,2026-01-07,4236.03,Consultant John Doe,services
+TXN_A106F2CF,2026-02-09,1192.4,Consultant John Doe,services
+TXN_BF7C2CD6,2025-11-28,37.19,Uber,travel
+TXN_C9578E61,2025-12-12,1774.09,Consultant John Doe,services
+TXN_3078B845,2026-01-13,260.66,Staples,office_supplies
+TXN_D7D2A105,2026-01-09,14.45,Chipotle,meals
+TXN_06864FBB,2025-12-15,18.51,Chipotle,meals
+TXN_41260543,2025-12-18,63.77,Uber,travel
+TXN_23EC3278,2026-01-20,17.45,Starbucks,meals
+TXN_7B094BEB,2026-01-12,490.74,AWS,software
+TXN_62E34EEA,2026-01-23,35.99,Chipotle,meals
+TXN_EF83BDD7,2026-01-29,37.23,Uber,travel
+TXN_968FD9D5,2025-11-27,4562.14,Consultant John Doe,services
+TXN_8B29AE63,2025-11-14,4671.25,Consultant John Doe,services
+TXN_74FF6095,2025-12-24,64.68,Uber,travel
+TXN_2EACEBE8,2025-11-28,151.63,Slack,software
+TXN_E48C235C,2026-02-05,100.66,Slack,software
+TXN_4F51E85A,2026-01-26,1133.89,Delta Airlines,travel
+TXN_8183DA11,2026-01-16,2356.34,Consultant John Doe,services
+TXN_5775E9C8,2025-12-12,2981.14,Consultant John Doe,services
+TXN_652D57ED,2026-02-06,1831.05,AWS,software
+TXN_00FE3249,2025-11-25,124.33,Slack,software
+TXN_250FDAA9,2025-12-19,744.75,Delta Airlines,travel
+TXN_F969023A,2025-12-12,391.6,Delta Airlines,travel
+TXN_09A00AB5,2026-01-21,83.49,Slack,software
+TXN_EFA394B0,2025-12-29,1455.08,WeWork,rent
+TXN_6749FB84,2025-12-18,1585.04,AWS,software
+TXN_8CD67E4E,2025-12-05,6.06,Starbucks,meals
+TXN_7D9961D2,2025-12-15,157.92,Slack,software
+TXN_5B388921,2025-11-25,34.46,Uber,travel
+TXN_E125FA64,2025-12-03,159.19,Slack,software
+TXN_DUP_1,2025-12-31,315.33,AWS,software
+TXN_6F1C84CA,2026-01-30,4220.22,Consultant John Doe,services
+TXN_35776DC3,2025-11-27,271.16,Staples,office_supplies
+TXN_D3C22C47,2025-12-30,17.4,Starbucks,meals
+TXN_175AC253,2025-12-01,26.89,Chipotle,meals
+TXN_7A26EB70,2025-11-24,167.84,Slack,software
+TXN_33AEB4AE,2026-01-07,14.98,Starbucks,meals
+TXN_790BE3CB,2026-01-13,25.49,Chipotle,meals
+TXN_081B3754,2026-01-15,77.81,Slack,software
+TXN_31D7B590,2026-01-26,32.76,Uber,travel
+TXN_165E62DB,2026-01-16,163.91,Staples,office_supplies
+TXN_29B2C918,2026-01-22,217.19,Staples,office_supplies
+TXN_87BEA9CE,2026-01-28,1209.44,Delta Airlines,travel
+TXN_C0A8C743,2025-12-26,37.47,Chipotle,meals
+TXN_B3C7037B,2026-01-15,10.98,Starbucks,meals
+TXN_71FA4A66,2025-11-14,250.96,Staples,office_supplies
+TXN_96B69BEB,2026-02-05,1169.31,WeWork,rent
+TXN_6B867A55,2026-01-20,423.26,Delta Airlines,travel
+TXN_STRUCT_1,2026-01-11,4950.0,Consultant John Doe,services
+TXN_52D33882,2025-12-24,1259.28,Delta Airlines,travel
+TXN_7C3BEEAF,2025-12-09,246.94,Hilton Hotels,travel
+TXN_25EB3AD7,2025-12-11,266.48,Staples,office_supplies
+TXN_43D593D7,2025-11-27,2207.96,Consultant John Doe,services
+TXN_17E20668,2025-11-14,3646.45,Consultant John Doe,services
+TXN_4A91451D,2026-02-05,297.26,Staples,office_supplies
+TXN_9B47C400,2026-01-07,18.73,Starbucks,meals
+TXN_3C43EB35,2025-12-18,193.0,Slack,software
+TXN_0187C3EE,2026-02-02,62.69,Staples,office_supplies
+TXN_AE7941ED,2026-01-09,101.04,Slack,software
+TXN_WEEKEND_1,2025-11-16,4500.0,Apple Store,equipment
+TXN_ACFBEB12,2025-12-12,1286.37,Delta Airlines,travel
+TXN_D8767FF9,2026-01-05,71.38,Amazon,office_supplies
+TXN_B976FD80,2025-11-17,50.39,Uber,travel
+TXN_B46EB2E5,2026-01-05,403.89,Hilton Hotels,travel
+TXN_5156B8A2,2026-01-19,16.38,Starbucks,meals
+TXN_9ED67AEA,2026-01-20,64.35,Slack,software
+TXN_3C0F8846,2025-11-24,93.91,Staples,office_supplies
+TXN_16C1E47C,2025-11-21,60.97,Uber,travel
+TXN_33BDC92C,2026-02-06,561.66,Hilton Hotels,travel
+TXN_92E509E8,2025-11-13,415.39,Amazon,office_supplies
+TXN_5525F874,2025-11-13,153.62,Slack,software
+TXN_1837CA52,2025-12-11,768.05,Hilton Hotels,travel
+TXN_F396B45A,2025-12-19,1007.88,WeWork,rent
+TXN_0510BA83,2026-02-05,1687.26,Consultant John Doe,services
+TXN_30D08E64,2026-01-08,55.39,Uber,travel
+TXN_STRUCT_2,2026-01-11,4950.0,Consultant John Doe,services
+TXN_9FBC5755,2026-01-30,168.6,Amazon,office_supplies
+TXN_A7810C8A,2026-01-21,18.0,Chipotle,meals
+TXN_0E4038A8,2026-02-05,1462.38,WeWork,rent
+TXN_55B25741,2025-12-08,40.64,Uber,travel
+TXN_1EA15FE0,2025-12-12,24.09,Starbucks,meals
+TXN_E6832847,2025-12-30,1052.71,WeWork,rent
+TXN_36997E19,2026-01-07,708.62,Hilton Hotels,travel
+TXN_FMT_1,2026-13-45,-150.0,Refund?,refund
+TXN_13600113,2026-02-06,116.58,Slack,software
+TXN_622DF80A,2025-11-13,28.81,Chipotle,meals
+TXN_A932A475,2025-12-31,450.73,Delta Airlines,travel
+TXN_746E8EA0,2025-12-18,1200.96,WeWork,rent
+TXN_4C585FA1,2026-02-02,247.6,Amazon,office_supplies
+TXN_EB12A382,2025-12-08,188.73,Slack,software
+TXN_1D58381F,2026-01-02,278.54,Hilton Hotels,travel
+TXN_050BD178,2026-01-09,1094.02,WeWork,rent
+TXN_DUP_0,2026-02-09,1192.4,Consultant John Doe,services
+TXN_B4DE4E87,2025-12-24,5.89,Starbucks,meals
+TXN_4F3A813C,2026-01-22,1676.95,AWS,software
+TXN_3B659291,2026-01-23,1188.96,Delta Airlines,travel
+TXN_29ED13E5,2026-01-28,1112.46,AWS,software
+TXN_72938711,2025-11-21,10.36,Chipotle,meals
+TXN_C1838196,2026-01-28,654.26,AWS,software
+TXN_1753BB23,2025-12-15,64.88,Slack,software
+TXN_1D2EC328,2025-12-22,131.92,Staples,office_supplies
+TXN_874B7120,2026-01-07,18.55,Starbucks,meals
+TXN_1365152E,2026-02-02,1467.49,Delta Airlines,travel
+TXN_01A1DCD1,2026-02-10,324.14,Amazon,office_supplies
+TXN_54E11EB9,2025-11-20,12.9,Chipotle,meals
+TXN_CC828168,2025-11-27,223.55,Amazon,office_supplies
+TXN_86226C59,2026-01-02,76.74,Staples,office_supplies
+TXN_6184BAD8,2026-01-16,652.25,Hilton Hotels,travel
+TXN_360E40AE,2026-01-08,1858.39,AWS,software
+TXN_E762C455,2025-12-15,9.8,Starbucks,meals
+TXN_94FA1944,2026-01-08,223.05,Delta Airlines,travel
+TXN_F2CA5D05,2025-11-24,74.78,Amazon,office_supplies
+TXN_A3D992CF,2025-12-19,458.23,AWS,software
+TXN_1DF49AC2,2026-01-29,75.38,Slack,software
+TXN_38810163,2025-12-25,421.98,Hilton Hotels,travel
+TXN_9EBC54CB,2026-01-20,2999.95,Consultant John Doe,services
+TXN_ED86873A,2025-11-13,70.42,Uber,travel
+TXN_8C096435,2026-01-29,1042.14,AWS,software
+TXN_A81EA464,2025-11-19,2200.73,Consultant John Doe,services
+TXN_SUS_1,2026-01-21,2500.0,Luxury Spa & Resort,office_supplies
+TXN_C44D99D0,2026-01-01,45.32,Staples,office_supplies
+TXN_E677883E,2026-01-30,96.39,Slack,software
+TXN_73564BF4,2025-11-18,155.82,Slack,software
+TXN_8E92C58D,2026-01-16,1162.7,Delta Airlines,travel
+TXN_0851502A,2026-01-02,276.81,Amazon,office_supplies
+TXN_1A6EDED3,2026-01-29,22.73,Uber,travel
+TXN_MISSING_1,2025-11-22,,Unknown Vendor,misc
+TXN_E52AE042,2025-11-12,483.31,Delta Airlines,travel
+TXN_FF24B510,2026-01-21,2643.35,Consultant John Doe,services
+TXN_STRUCT_0,2026-01-11,4950.0,Consultant John Doe,services
+TXN_0E1B6CF1,2025-12-11,1471.7,AWS,software
+TXN_432CE09A,2026-02-05,298.78,Staples,office_supplies
+TXN_5B3578C9,2025-12-31,315.33,AWS,software
+TXN_163EA247,2025-11-14,16.04,Starbucks,meals
+TXN_67D23AD8,2026-01-22,4600.36,Consultant John Doe,services
+TXN_F3B7AEB2,2025-11-26,83.2,Slack,software
+TXN_4BF3C527,2026-01-22,15.63,Starbucks,meals
+TXN_3491BB1C,2026-01-14,163.92,Hilton Hotels,travel
+TXN_CC05752D,2026-02-02,695.66,AWS,software
+TXN_55CB2E64,2025-11-17,32.81,Chipotle,meals
+TXN_12C942EA,2025-11-28,229.71,Staples,office_supplies
+TXN_D4EAD208,2026-02-04,735.62,Hilton Hotels,travel
+TXN_DF8DA266,2026-01-19,202.06,Staples,office_supplies
+TXN_85A1B311,2025-11-21,39.39,Staples,office_supplies
+TXN_969ADCF0,2025-12-12,292.45,AWS,software
+TXN_OUTLIER_1,2025-12-27,25000.0,Uber,travel
+TXN_00890897,2025-12-03,53.83,Slack,software
+TXN_F954744A,2025-12-10,126.51,Amazon,office_supplies
+TXN_DUP_2,2025-11-18,155.82,Slack,software
+TXN_3BE4019B,2025-12-08,179.44,Slack,software
+TXN_064C36DE,2026-01-16,220.38,Staples,office_supplies
+TXN_46838726,2026-01-27,1906.85,Consultant John Doe,services
+TXN_5E363AE8,2025-12-03,19.62,Uber,travel
+TXN_C7590F53,2025-12-26,14.0,Chipotle,meals
+TXN_60880A4F,2025-12-26,142.17,Amazon,office_supplies
+TXN_DD3B9F29,2026-01-09,7.08,Starbucks,meals
+TXN_DCD12822,2025-12-31,1076.75,WeWork,rent
+TXN_17D1D66F,2025-12-16,19.14,Chipotle,meals
+TXN_3FD3FCF4,2026-01-28,457.74,Amazon,office_supplies
+TXN_472E9649,2026-01-29,231.81,Hilton Hotels,travel
+TXN_0A29133F,2025-12-11,617.05,AWS,software
+TXN_B9BA4B2D,2026-01-12,898.0,Delta Airlines,travel
+TXN_4D820520,2025-12-10,3947.38,Consultant John Doe,services
+TXN_223F2178,2025-11-26,411.05,Amazon,office_supplies
+TXN_20363D37,2026-01-08,1307.18,WeWork,rent
+TXN_C48ADF23,2026-01-01,111.16,Slack,software
+TXN_B8154E1A,2026-02-06,175.52,Hilton Hotels,travel
+TXN_FFA47745,2026-02-06,460.0,Amazon,office_supplies
+TXN_E2251ED6,2026-01-09,24.72,Starbucks,meals
+TXN_B64956C4,2025-12-19,21.2,Chipotle,meals
+TXN_F2BD4720,2025-11-17,1462.19,AWS,software
+TXN_869D5711,2026-02-05,302.47,Amazon,office_supplies
+TXN_F9CBDED2,2025-11-18,63.37,Slack,software
+TXN_0269F763,2025-12-05,100.85,Staples,office_supplies
+TXN_057FD280,2025-12-25,2089.17,Consultant John Doe,services
+TXN_E69D8EE0,2025-11-24,3255.43,Consultant John Doe,services
+TXN_9212B073,2026-01-09,1394.29,Delta Airlines,travel
+TXN_3B7F3BFA,2026-01-05,1202.98,WeWork,rent
+TXN_C9EC4EF2,2025-12-10,1052.08,WeWork,rent
+TXN_F8C2023C,2026-02-03,155.73,Slack,software
+TXN_ED939BB5,2025-11-13,1368.23,AWS,software
+TXN_56059086,2026-01-01,3447.0,Consultant John Doe,services
+TXN_CA0084F1,2026-02-02,598.11,Hilton Hotels,travel
+TXN_E422D935,2025-11-13,108.96,Amazon,office_supplies
+TXN_36076AEA,2026-01-20,10.11,Starbucks,meals
+TXN_BE74CF1F,2026-02-09,18.78,Starbucks,meals
+TXN_EEB37B14,2026-01-26,1838.02,AWS,software
+TXN_BF567251,2025-11-25,45.58,Staples,office_supplies
+TXN_A5430A54,2025-12-05,11.25,Chipotle,meals
+TXN_4316B42E,2025-11-13,2476.1,Consultant John Doe,services
+TXN_C0756AB0,2025-12-12,765.41,Hilton Hotels,travel
+TXN_018183D0,2025-11-20,62.62,Uber,travel
+TXN_BF18D88D,2026-01-26,51.01,Slack,software
+TXN_74BEDC7A,2025-12-19,1274.69,Delta Airlines,travel
+TXN_48DEB87A,2025-12-23,3351.6,Consultant John Doe,services
+TXN_62F7E2C6,2025-12-16,1265.19,AWS,software
+TXN_2A973361,2025-12-10,80.23,Slack,software
+TXN_BBF2630F,2026-02-02,423.75,Delta Airlines,travel
+TXN_9A999F7E,2025-12-16,136.96,Slack,software
+TXN_490C6E38,2025-11-24,58.76,Slack,software
+TXN_4F9EE1FE,2025-12-09,15.78,Starbucks,meals
+TXN_6C5D8ED8,2025-12-15,46.5,Uber,travel
+TXN_6011A453,2026-02-03,55.17,Uber,travel
+TXN_F5DD7B8D,2025-11-24,2653.31,Consultant John Doe,services
+TXN_BF876C44,2026-01-16,728.51,AWS,software
