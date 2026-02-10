@@ -5,6 +5,14 @@ from utils.data_loader import DataLoader
 from detectors import DetectionPipeline
 from ui.dashboard_page import show_dashboard
 from ui.review_page import show_review
+from database.init_db import init_db
+
+# Initialize DB if needed - Critical for Cloud Deployment
+if not os.path.exists('anomalyguard.db'):
+    init_db()
+else:
+    # Ensure tables exist even if file exists
+    init_db()
 
 # Page configuration
 st.set_page_config(
